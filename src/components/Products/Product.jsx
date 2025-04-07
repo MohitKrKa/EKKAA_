@@ -280,7 +280,7 @@ function Product() {
                 </motion.div>
 
                 {/* Navigation Buttons - Static (Outside the animated div) */}
-                <div className="flex gap-4 mt-6">
+                <div className="flex gap-4 mt-8">
                   <button
                     onClick={handlePrev}
                     className="p-3 cursor-pointer rounded-full shadow-md hover:bg-gray-300 transition"
