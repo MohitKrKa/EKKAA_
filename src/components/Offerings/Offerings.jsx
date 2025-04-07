@@ -136,7 +136,7 @@ export default function Offerings() {
               transition={{ duration: 0.5 }}
             >
               <span
-                className={`bg-gradient-to-r ${titleColorStart[currentVideo]} ${titleColorEnd[currentVideo]} bg-clip-text text-transparent`}
+                className={`mb-4 bg-gradient-to-r ${titleColorStart[currentVideo]} ${titleColorEnd[currentVideo]} bg-clip-text text-transparent`}
               >
                 {title[currentVideo]}
               </span>
