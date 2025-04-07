@@ -16,7 +16,7 @@ const Footer = () => {
   const isMobile = useMediaQuery({ maxWidth: 1023 });
 
   const DesktopFooter = () => (
-    <div className="flex relative flex-col  h-auto  text-white bg-[#080E1C] max-md:px-10 max-md:py-0">
+    <div className="flex relative flex-col  h-auto  text-white bg-gradient-to-r to-[#0F2E61] from-[#0F5261] max-md:px-10 max-md:py-0">
       <div className="flex flex-col items-center justify-center px-20 py-10">
         <h1 className="mb-4 text-5xl text-[#FFFFFF] font-[Poppins] font-[275] max-sm:text-4xl">
           Planning for the next big step?
