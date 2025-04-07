@@ -129,7 +129,7 @@ export default function Offerings() {
           <AnimatePresence mode="wait">
             <motion.div
               key={`title-${currentVideo}`}
-              className="w-[4xl] mb-6 pb-4 font-[SF Pro Display] font-[600] text-xl sm:text-2xl md:text-3xl lg:text-4xl"
+              className="w-[4xl] mb-10 font-[SF Pro Display] font-[600] text-xl sm:text-2xl md:text-3xl lg:text-4xl"
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -10 }}
