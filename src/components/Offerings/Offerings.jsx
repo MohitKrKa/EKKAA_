@@ -79,7 +79,7 @@ export default function Offerings() {
           </AnimatePresence>
 
           {/* TV Mockup */}
-          <div className="relative w-full max-w-[900px] mx-auto aspect-[16/10] mt-4">
+          <div className="relative w-full max-w-[90vh] mx-auto aspect-[16/10] mt-4">
             <AnimatePresence mode="wait">
               <motion.img
                 key={`ellipse-${currentVideo}`}
