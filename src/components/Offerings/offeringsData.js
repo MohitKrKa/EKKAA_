@@ -7,11 +7,11 @@ import ell from "/Offerings/slide1/ellipse.png"
 
 import slide2im1 from "/Offerings/slide2/slide2im1.png";
 import slide2im2 from "/Offerings/slide2/slide2im2.png";
-import slide2ell from "/Offerings/slide2/slide2ell.png"
+import slide2ell from "/Offerings/slide2/ellipse.png"
 
 import slide3im1 from "/Offerings/slide3/slide3im1.png";
 import slide3im2 from "/Offerings/slide3/slide3im2.png";
-import slide3ell from "/Offerings/slide3/slide3ell.png"
+import slide3ell from "/Offerings/slide3/ellipse.png"
 
 
 const offeringsData = [
